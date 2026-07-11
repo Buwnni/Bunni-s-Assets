@@ -226,7 +226,7 @@ const assetCatalog = [
     id: 29,
     robux: 300,
     euro: 1.5,
-    category: "foliage",
+    category: "extra",
     image:
       "https://media.discordapp.net/attachments/1521200601420009482/1521926290620289136/RobloxStudioBeta_HaQGAoQjtY.png?ex=6a53220f&is=6a51d08f&hm=ec99625460ec38e5d64c5c5c07468bc7d8b1a24116f66b28b6c1240e9ec0b43c&=&format=webp&quality=lossless&width=902&height=687"
   },
