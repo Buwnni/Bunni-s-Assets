@@ -68,7 +68,7 @@ const assetCatalog = [
     euro: 1.5,
     category: "foliage",
     image:
-      "https://media.discordapp.net/attachments/1521199748508549201/1521251996412280994/RobloxStudioBeta_xIwwieD8CM.png?ex=6a52a853&is=6a5156d3&hm=842c7d22948c08f84097566c9a3b78b429bf195ff51c490283b6e4de088131f3&=&format=webp&quality=lossless"
+      "https://cdn.discordapp.com/attachments/1521199748508549201/1524410554381504662/RobloxStudioBeta_vUMdDwEoBu.png?ex=6a5399f6&is=6a524876&hm=7636a3b75e4a63acc683479482ca86734c88c60f4dd49f1222ab7f976d9cb2ca&"
   },  
 {
     id: 10,
@@ -124,7 +124,7 @@ const assetCatalog = [
     euro: 6,
     category: "foliage",
     image:
-      "https://cdn.discordapp.com/attachments/1521199748508549201/1521252365406179578/RobloxStudioBeta_yzcjN6Dlpr.png?ex=6a53516b&is=6a51ffeb&hm=60c67f306ceaf3fb590d15014154ac64eada970468037be20252fe324198635d&"
+      "https://media.discordapp.net/attachments/1521199748508549201/1521252365406179578/RobloxStudioBeta_yzcjN6Dlpr.png?ex=6a52a8ab&is=6a51572b&hm=4f48f47a17fd27d7918b2b772821e986a0b8dcc1fda1e8fcbe8f4e0b7223afa6&=&format=webp&quality=lossless"
   },
 {
     id: 17,
@@ -197,6 +197,22 @@ const assetCatalog = [
     category: "extra",
     image:
       "https://media.discordapp.net/attachments/1521200601420009482/1521931952515711178/RobloxStudioBeta_qHR7CWgoNP.png?ex=6a532755&is=6a51d5d5&hm=7206f03a0f2912ad1f57715840ab61d8eadfa469efb337105cdda69c7323e7c8&=&format=webp&quality=lossless&width=902&height=687"
+  },
+{
+    id: 331,
+    robux: 300,
+    euro: 1.5,
+    category: "extra",
+    image:
+      "https://cdn.discordapp.com/attachments/1521200601420009482/1521925587793612842/RobloxStudioBeta_Br79vmP24y.png?ex=6a532168&is=6a51cfe8&hm=2e787b2659f418d28bf98a03b914712506fb5fd5ade3f4fcae4ce16b60dea7a7&"
+  },
+{
+    id: 332,
+    robux: 300,
+    euro: 1.5,
+    category: "extra",
+    image:
+      "https://cdn.discordapp.com/attachments/1521200601420009482/1521925574887473222/RobloxStudioBeta_fXVkje2Bvd.png?ex=6a532165&is=6a51cfe5&hm=00d42ba6e5f5c302b39b683960aba706ac39d59d9e3bf33a3c028c238ecd607f&"
   },
 {
     id: 26,
@@ -1109,6 +1125,38 @@ const assetCatalog = [
     category: "stands",
     image:
       "https://cdn.discordapp.com/attachments/1521200446302060697/1521258321510666432/RobloxStudioBeta_Z67Xt1POEY.png?ex=6a5356f7&is=6a520577&hm=759aa1e662de09f0f8bfdf815c515e7192900aea9f7aaacf0ea091e430afb0a9&"
+  },
+{
+    id: 335,
+    robux: 500,
+    euro: 3,
+    category: "stands",
+    image:
+      "https://cdn.discordapp.com/attachments/1521200446302060697/1521258484643926188/RobloxStudioBeta_XPpqqlvdNa.png?ex=6a53571e&is=6a52059e&hm=e7169dec0e02054c259b29e9fb0071fbb8a1e629630ab067fd7247ab23d524f5&"
+  },
+{
+    id: 336,
+    robux: 500,
+    euro: 3,
+    category: "stands",
+    image:
+      "https://cdn.discordapp.com/attachments/1521200446302060697/1521258496660734134/RobloxStudioBeta_gm1rrqCZvn.png?ex=6a535721&is=6a5205a1&hm=e6a5f18564cb0d55bd1773dc00481d7442861b0e5b8f8866e7736e8671b22e3d&"
+  },
+{
+    id: 334,
+    robux: 500,
+    euro: 3,
+    category: "stands",
+    image:
+      "https://cdn.discordapp.com/attachments/1521200446302060697/1521258468642783425/RobloxStudioBeta_LW9oqq4l6w.png?ex=6a53571a&is=6a52059a&hm=9d4dd977a00c16294ad4ad0b7308453cb8b5734a61c39f907c653cbc298ee2a9&"
+  },
+{
+    id: 333,
+    robux: 500,
+    euro: 3,
+    category: "stands",
+    image:
+      "https://cdn.discordapp.com/attachments/1521200446302060697/1521258452775862292/RobloxStudioBeta_eYP765SQzx.png?ex=6a535716&is=6a520596&hm=6b62f770f560f9baeddef7782a264b21d421c0afdd01a8889d9837809bed7d42&"
   },
 {
     id: 141,
