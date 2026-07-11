@@ -124,7 +124,7 @@ const assetCatalog = [
     euro: 6,
     category: "foliage",
     image:
-      "https://media.discordapp.net/attachments/1521199748508549201/1521252365406179578/RobloxStudioBeta_yzcjN6Dlpr.png?ex=6a52a8ab&is=6a51572b&hm=4f48f47a17fd27d7918b2b772821e986a0b8dcc1fda1e8fcbe8f4e0b7223afa6&=&format=webp&quality=lossless"
+      "https://cdn.discordapp.com/attachments/1521199748508549201/1521252365406179578/RobloxStudioBeta_yzcjN6Dlpr.png?ex=6a53516b&is=6a51ffeb&hm=60c67f306ceaf3fb590d15014154ac64eada970468037be20252fe324198635d&"
   },
 {
     id: 17,
@@ -132,7 +132,7 @@ const assetCatalog = [
     euro: 10,
     category: "foliage",
     image:
-      "https://media.discordapp.net/attachments/1521199748508549201/1521252405063192770/RobloxStudioBeta_nsOzuicYjK.png?ex=6a52a8b4&is=6a515734&hm=4dc1663393e8c43f451884c01b63111489fb37ca825e2b02047ffa27388a60f6&=&format=webp&quality=lossless"
+      "https://cdn.discordapp.com/attachments/1521199748508549201/1521252405063192770/RobloxStudioBeta_nsOzuicYjK.png?ex=6a535174&is=6a51fff4&hm=17bc1cf63070d9900c4eeda97fda547c59b9a193c99a027f32a3a995f25963fe&"
   },
 {
     id: 18,
@@ -140,7 +140,7 @@ const assetCatalog = [
     euro: 3.5,
     category: "foliage",
     image:
-      "https://media.discordapp.net/attachments/1521199748508549201/1524409774475710504/RobloxStudioBeta_8AzDLgu1jg.png?ex=6a5247bc&is=6a50f63c&hm=cd49cc1bf36be5e2c1651adc44600711f0bb4888ab81dceeec82519c4282624d&=&format=webp&quality=lossless"
+      "https://cdn.discordapp.com/attachments/1521199748508549201/1524409774475710504/RobloxStudioBeta_8AzDLgu1jg.png?ex=6a53993c&is=6a5247bc&hm=89cbd1e8c141981489558009ae8174c27deb20576a6f2858c5852d17afe091cf&"
   },
 {
     id: 19,
@@ -148,7 +148,7 @@ const assetCatalog = [
     euro: 6.5,
     category: "foliage",
     image:
-      "https://media.discordapp.net/attachments/1521199748508549201/1524410508168663120/RobloxStudioBeta_qrvzxrfd5T.png?ex=6a52486b&is=6a50f6eb&hm=c32ad9690d36930e2eee7f3a1ce1ed9edb7ffec43fb2476747f35a450d95b9d9&=&format=webp&quality=lossless"
+      "https://cdn.discordapp.com/attachments/1521199748508549201/1524410508168663120/RobloxStudioBeta_qrvzxrfd5T.png?ex=6a5399eb&is=6a52486b&hm=da6cbada92caf24798eb06c14ca471fe425c7edbedfcc575115d83d556e8e229&"
   },
 {
     id: 20,
@@ -156,7 +156,7 @@ const assetCatalog = [
     euro: 2,
     category: "foliage",
     image:
-      "https://media.discordapp.net/attachments/1521199748508549201/1524410538472378518/RobloxStudioBeta_5BL5bcgBLh.png?ex=6a524872&is=6a50f6f2&hm=37cdc547f307a5d64ed8cb146b4326f4b749d4e7d107a4e4d2b021b1d0669e6a&=&format=webp&quality=lossless"
+      "https://cdn.discordapp.com/attachments/1521199748508549201/1524410538472378518/RobloxStudioBeta_5BL5bcgBLh.png?ex=6a5399f2&is=6a524872&hm=0a8690c1e5528012e74ad1d37bbcbc81fc895bfdc4777e158743a55a59830073&"
   },
 {
     id: 21,
@@ -164,7 +164,7 @@ const assetCatalog = [
     euro: 8.5,
     category: "foliage",
     image:
-      "https://media.discordapp.net/attachments/1521199748508549201/1524410598257983589/RobloxStudioBeta_1zf7Z6Jv3Q.png?ex=6a524880&is=6a50f700&hm=f5baa8b79fff0bdcdd5dd9e4194b037a3fa32b98b07f620627414381bb779014&=&format=webp&quality=lossless"
+      "https://cdn.discordapp.com/attachments/1521199748508549201/1524410598257983589/RobloxStudioBeta_1zf7Z6Jv3Q.png?ex=6a539a00&is=6a524880&hm=1aa419a68698eb123ded8295a16552747a6d0523d15c8d72bd22c66a2f399327&"
   },
 {
     id: 22,
@@ -172,7 +172,7 @@ const assetCatalog = [
     euro: 3,
     category: "foliage",
     image:
-      "https://media.discordapp.net/attachments/1521199748508549201/1524410628490661908/RobloxStudioBeta_BIg9evIyt2.png?ex=6a524888&is=6a50f708&hm=fcbcdaa25bdace499c410ddc9b65955c81529048106250297a9f774f6b79ca51&=&format=webp&quality=lossless"
+      "https://cdn.discordapp.com/attachments/1521199748508549201/1524410628490661908/RobloxStudioBeta_BIg9evIyt2.png?ex=6a539a08&is=6a524888&hm=7074f7af1314117c5912ea89503a98991537788e6ef677aa9bec749dc6801aa4&"
   },
 {
     id: 23,
